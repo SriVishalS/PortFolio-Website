@@ -13,5 +13,5 @@ Front-End Development<br>HTML || CSS || BOOTSTRAP || JAVASCRIPT<br>Mini Projects
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SriVishalS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SriVishalS&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=SrivishalS)
 
